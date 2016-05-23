@@ -410,6 +410,10 @@ input[type=submit]:hover{
 	top: -45px;
 	right: -65px;
 }
+.ul-title{
+	padding-left: 28%;
+	text-align: left;
+}
 .social{
 	padding-left: 28%;
     text-align: left;
@@ -613,6 +617,9 @@ input[type=submit]:hover{
 	.contact .title{
 		margin-top: 22px !important;
 		text-align: center;
+	}
+	.ul-title{
+		padding-left: 0;
 	}
 	section {
 	    margin-bottom: 0px;
