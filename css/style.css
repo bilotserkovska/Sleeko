@@ -93,7 +93,7 @@ header a:focus{
 	font-size: 33px;
 	color: #e8e8e8;
 }
-.info-box h1{
+.info-box h2{
 	font-size: 150px;
 	font-family: Helvetica-Condensed-Bold;
 	color: #e8e8e8;
@@ -273,7 +273,7 @@ header a:focus{
 	margin-bottom: 50px !important;
 	text-shadow: 2px 3px 1px #fff;
 }
-.what h1{
+.what h4{
 	font-size: 45px;
 	color: #707070;
 	margin-top: 0 !important;
@@ -456,13 +456,13 @@ input[type=submit]:hover{
 	opacity: .7;
 }
 @media (max-width: 1199px){
-	.slider-text h1 {
+	.slider-text h2 {
     	font-size: 140px;
 	}
 	.content-block .bx-wrapper .bx-viewport li{
 		font-size: 30px;
 	}
-	.what h1 {
+	.what h2 {
 	    font-size: 44px;
 	}
 	.what span {
@@ -476,7 +476,7 @@ input[type=submit]:hover{
 	.bar a{
 		font-size: 19px;
 	}
-	.info-box h1 {
+	.info-box h2 {
 		font-size: 125px;
 	}
 	.info-box {
@@ -488,7 +488,7 @@ input[type=submit]:hover{
 	.what .title-second {
     	font-size: 28px;
 	}
-	.what h1 {
+	.what h4 {
 	    font-size: 32px;
 	}
 	.what span {
@@ -515,7 +515,7 @@ input[type=submit]:hover{
 	.bar a {
 	    font-size: 16px;
 	}
-	.info-box h1 {
+	.info-box h2 {
 	    font-size: 60px;
 	}
 	.info-box{
@@ -568,8 +568,9 @@ input[type=submit]:hover{
 	.what span {
 		display: none;
 	}
-	.what h1{
+	.what h4{
 		text-align: center;
+		font-size: 25px;
 	}
 	.what .row {
 	    margin-bottom: 10px;
@@ -582,6 +583,7 @@ input[type=submit]:hover{
 	}
 	.what h2{
 		text-align: center;
+		font-size: 25px;
 	}
 	.bar li {
 	    padding: 11px 2px;
@@ -604,7 +606,7 @@ input[type=submit]:hover{
 	.what .title {
 	    font-size: 19px;
 	}
-	.what .title-second {
+	.what h3 {
     	font-size: 15px;
     	text-transform: uppercase;
 	}
